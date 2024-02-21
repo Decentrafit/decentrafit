@@ -1,7 +1,8 @@
-package com.decentrafit.decentrafit
+package com.decentrafit.decentrafit.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.decentrafit.decentrafit.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
