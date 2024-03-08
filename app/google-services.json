@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578971018055",
+    "project_id": "decentrafit-ae59f",
+    "storage_bucket": "decentrafit-ae59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578971018055:android:ca80055e2659346c6fe262",
+        "android_client_info": {
+          "package_name": "com.decentrafit.decentrafit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578971018055-gt75pji3ld5pfgid56iocvqran1ggqr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1N-tAuvllhPqmCvHbBYE2PFTvoBwrH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578971018055-gt75pji3ld5pfgid56iocvqran1ggqr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
