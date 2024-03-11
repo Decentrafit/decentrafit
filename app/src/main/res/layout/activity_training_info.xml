@@ -128,7 +128,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/text_exercises"
                 tools:itemCount="10"
-                tools:listitem="@layout/item_exercise" />
+                tools:listitem="@layout/item_training_info" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
