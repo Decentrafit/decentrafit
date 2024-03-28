@@ -79,9 +79,12 @@ dependencies {
 
     // HILT
     implementation("com.google.dagger:hilt-android:2.51")
-    implementation("com.google.firebase:firebase-auth:22.3.1")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
     kapt("com.google.dagger:hilt-android-compiler:2.51")
 
+    // Firebase
+    implementation("com.google.firebase:firebase-auth:22.3.1")
+    implementation("androidx.legacy:legacy-support-v4:1.0.0")
 
     // GSON
     implementation("com.google.code.gson:gson:2.10.1")

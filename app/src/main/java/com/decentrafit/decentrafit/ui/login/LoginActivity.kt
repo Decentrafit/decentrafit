@@ -13,14 +13,14 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
 
-        val loginChecked = true
+        val loginChecked = false
 
         // Keep the splash screen visible for this Activity.
         splashScreen.setKeepOnScreenCondition {
             loginChecked
         }
-        //  startActivity(Intent(this, MainActivity::class.java))
-       // finish()
+        startActivity(Intent(this, MainActivity::class.java))
+        finish()
 
 
         setContentView(R.layout.activity_login)

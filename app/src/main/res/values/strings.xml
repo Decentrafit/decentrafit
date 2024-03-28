@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Decentrafit</string>
+
+
+
+    <!-- Navigation Bar Sections-->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
 </resources>
